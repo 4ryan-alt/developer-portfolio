@@ -4,8 +4,8 @@
 ## HackerRank
 - Profile URL : https://www.hackerrank.com/profile/aryan27089
 - Problems solved : 3 (Say Hello, Python If-Else, Arithmetic Operators)
-- Skill test taken : Python (Basic) — Pending, not started yet
-- Certificate : Pending
+- Skill test taken : Python (Basic) — Passed
+- Certificate : Earned 19 Nov 2026, ID 624237508773 — https://www.hackerrank.com/certificates/624237508773
 ## LeetCode
 - Profile URL : https://leetcode.com/u/4ryan-alt
 - Easy attempted : 2 (Two Sum, Palindrome Number)
